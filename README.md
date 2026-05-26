@@ -1,16 +1,9 @@
-# mini_ecommerce
+## Screenshot Aplikasi
 
-A new Flutter project.
+![Screenshot App](assets/gambar_1.png)
 
-## Getting Started
+![Screenshot App](assets/gambar_2.png)
 
-This project is a starting point for a Flutter application.
+![Screenshot App](assets/gambar_3.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot App](assets/gambar_4.png)
